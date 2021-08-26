@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow:
+
+Sitemap:https://decoarturbano.000webhostapp.com/sitemap.xml
